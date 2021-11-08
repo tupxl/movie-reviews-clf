@@ -32,5 +32,5 @@ stopwords = ['a', 'about', 'an', 'and', 'are', 'as', 'at', 'be', 'been', 'but', 
 
 
 ## Result
-Removing stopwords can reduce training time, but it can also reduce model accuracy. Since there were only less than 2000 samples in this project, the time reduction was not significant.
+Removing stopwords can reduce training time, but it can also reduce or improve model accuracy. Since there were only less than 2,000 samples in this project, the time reduction was not significant. The trade-off between training time and model accuracy must be considered
 
